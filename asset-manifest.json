@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trinity/static/css/main.f368409d.css",
+    "main.js": "/trinity/static/js/main.1a33a2b1.js",
+    "static/media/roadmap.png": "/trinity/static/media/roadmap.5cccb55241b2d2870b97.png",
+    "static/media/logo-4.png": "/trinity/static/media/logo-4.5c8ab9faba70bf0afa21.png",
+    "static/media/logo-seven.png": "/trinity/static/media/logo-seven.2f8de1ac3a40dece128d.png",
+    "static/media/logo-two.png": "/trinity/static/media/logo-two.5aeadc6210b735e78a0e.png",
+    "static/media/logo-six.png": "/trinity/static/media/logo-six.e5ccefa07a3322c00c52.png",
+    "static/media/logo-five.png": "/trinity/static/media/logo-five.3afd02395cbb50b509f7.png",
+    "static/media/logo-three.png": "/trinity/static/media/logo-three.f35ff52c964be1dfba3b.png",
+    "static/media/logo-one.png": "/trinity/static/media/logo-one.d37663e2bfb1bd192058.png",
+    "static/media/logo-eight.png": "/trinity/static/media/logo-eight.ab9771ecbcbcedf7157b.png",
+    "static/media/vid-chat.png": "/trinity/static/media/vid-chat.c1f137204f2cb1fa2caf.png",
+    "index.html": "/trinity/index.html",
+    "main.f368409d.css.map": "/trinity/static/css/main.f368409d.css.map",
+    "main.1a33a2b1.js.map": "/trinity/static/js/main.1a33a2b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f368409d.css",
+    "static/js/main.1a33a2b1.js"
+  ]
+}
